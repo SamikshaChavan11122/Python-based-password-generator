@@ -49,10 +49,3 @@ This project is licensed under the MIT License.
 ---
 
 Happy Coding! 🚀🔐
-
-```
-
----
-
-This **README.md** makes your project look **professional and user-friendly**. Let me know if you want any modifications! 🚀
-```
